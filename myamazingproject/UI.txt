@@ -1,1 +1,2 @@
-Kali Linux is an amazing subsystem :> UwU
+Kali Linux is an amazing subsystem :> UwU.js 
+function()
